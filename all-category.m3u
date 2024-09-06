@@ -1,125 +1,60 @@
-#EXTM3U — SULTAN ARABI <! BD - Playlist>
-
-#EXTINF:-1 tvg-id="40480" tvg-logo="http://ujm.from-in.com/panel/imageicon/a9682a5.png" group-title="BENGALI", BD: ABP ANANDA
-https://utube.buddyxiptv.com/@abpanandatv.m3u8
-#EXTINF:-1 tvg-id="90255" tvg-logo="http://ujm.from-in.com/panel/imageicon/8855a16.png" group-title="BENGALI", BD: ANANDA TV
-https://utube.buddyxiptv.com/@ABPNEWS.m3u8
-
+#EXTM3U <! Sultan Arabi -- BD playlist >
+#EXTINF:-1 tvg-id="40480" tvg-logo="http://ujm.from-in.com/panel/imageicon/a9682a5.png" group-title="BENGALI", BD: ABP ANANDA https://utube.buddyxiptv.com/@abpanandatv.m3u8
+#EXTINF:-1 tvg-id="90255" tvg-logo="http://ujm.from-in.com/panel/imageicon/8855a16.png" group-title="BENGALI", BD: ANANDA TV https://utube.buddyxiptv.com/@ABPNEWS.m3u8
 ### News Channels
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PXLMFxX.png" group-title="News", Jamuna TV
-https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Z6rPpq.png" group-title="News", Somoy TV
-https://utube.buddyxiptv.com/@somoynews360.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RI9kTKW.png" group-title="News", Ekattor TV
-https://utube.buddyxiptv.com/@EkattorTelevision.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wD4Ksjs.png" group-title="News", Independent
-https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3w4Yefn.png" group-title="News", ATN News
-https://utube.buddyxiptv.com/@atnnewsltd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QD9Ykjr.png" group-title="News", BTV
-https://utube.buddyxiptv.com/@BangladeshTelevision-BTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hxbFMDT.png" group-title="News", BanglaVision
-https://utube.buddyxiptv.com/@banglavisionlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Ggvn0E.png" group-title="News", DBC
-https://utube.buddyxiptv.com/@dbcnewstv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jcqnMaW.png" group-title="News", Al Jazeera English
-https://utube.buddyxiptv.com/@aljazeeraenglish.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VmkTfj.png" group-title="News", Asian TV
-https://mtlivestream.com/asian/ytlive/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P5D0XVU.png" group-title="News", Deepto TV
-http://103.149.142.133/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XLzMPWC.png" group-title="News", Bangla TV
-https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OlRyVNr.png" group-title="News", Bangla Jago
-http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PXLMFxX.png" group-title="News", Jamuna TV https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Z6rPpq.png" group-title="News", Somoy TV https://utube.buddyxiptv.com/@somoynews360.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RI9kTKW.png" group-title="News", Ekattor TV https://utube.buddyxiptv.com/@EkattorTelevision.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wD4Ksjs.png" group-title="News", Independent https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3w4Yefn.png" group-title="News", ATN News https://utube.buddyxiptv.com/@atnnewsltd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QD9Ykjr.png" group-title="News", BTV https://utube.buddyxiptv.com/@BangladeshTelevision-BTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hxbFMDT.png" group-title="News", BanglaVision https://utube.buddyxiptv.com/@banglavisionlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Ggvn0E.png" group-title="News", DBC https://utube.buddyxiptv.com/@dbcnewstv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcqnMaW.png" group-title="News", Al Jazeera English https://utube.buddyxiptv.com/@aljazeeraenglish.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5VmkTfj.png" group-title="News", Asian TV https://mtlivestream.com/asian/ytlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P5D0XVU.png" group-title="News", Deepto TV http://103.149.142.133/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XLzMPWC.png" group-title="News", Bangla TV https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OlRyVNr.png" group-title="News", Bangla Jago http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 ### Bangladeshi Channels
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NXXjfVf.png" group-title="Bangladeshi", Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vfWnExY.png" group-title="Bangladeshi", Desh TV
-https://utube.buddyxiptv.com/@Deshtvnews.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1qVhLRy.png" group-title="Bangladeshi", Channel i TV
-https://utube.buddyxiptv.com/@channelinews.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NJrNhK9.png" group-title="Bangladeshi", R TV
-https://utube.buddyxiptv.com/@RtvNews.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VVXWavr.png" group-title="Bangladeshi", Channel S
-https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ixb5rMZ.png" group-title="Bangladeshi", Channel 24
-https://utube.buddyxiptv.com/@channel24digital.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FwMjT7N.png" group-title="Bangladeshi", N TV
-https://utube.buddyxiptv.com/@NTVDigitalLive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bx3Ywgq.png" group-title="Bangladeshi", Ekhon TV
-https://utube.buddyxiptv.com/@ekhontv.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NXXjfVf.png" group-title="Bangladeshi", Ekushey TV http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfWnExY.png" group-title="Bangladeshi", Desh TV https://utube.buddyxiptv.com/@Deshtvnews.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1qVhLRy.png" group-title="Bangladeshi", Channel i TV https://utube.buddyxiptv.com/@channelinews.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NJrNhK9.png" group-title="Bangladeshi", R TV https://utube.buddyxiptv.com/@RtvNews.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VVXWavr.png" group-title="Bangladeshi", Channel S https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ixb5rMZ.png" group-title="Bangladeshi", Channel 24 https://utube.buddyxiptv.com/@channel24digital.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FwMjT7N.png" group-title="Bangladeshi", N TV https://utube.buddyxiptv.com/@NTVDigitalLive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bx3Ywgq.png" group-title="Bangladeshi", Ekhon TV https://utube.buddyxiptv.com/@ekhontv.m3u8
 ### Sports Channels
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l0YQGMD.png" group-title="Sports", Sony Sports
-https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vq1xJRo.png" group-title="Sports", T-Sports
-http://example.com/sports-channel1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7aXHQnr.png" group-title="Sports", beIN Sports 1
-http://176.9.60.218:8080/BE1HDHEVC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KgJr3Uo.png" group-title="Sports", beIN Sports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2cDRXcr.png" group-title="Sports", Sony Sports5
-https://humsab.xyz/S_Ten5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OQ8Pjmh.png" group-title="Sports", Extra Sports
-http://example.com/sports-channel1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4sYsXQs.png" group-title="Sports", Euro Sports 1
-http://109.233.89.166/Eurosport_1_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wt4xdVP.png" group-title="Sports", Euro Sports 2
-http://109.233.89.166/Eurosport_2_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqBJBRF.png" group-title="Sports", Grandstand
-http://145.239.5.177:8080/567/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vq1xJRo.png" group-title="Sports", T-Sports Others
-https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ks1JQBW.png" group-title="Sports", Amazon-Sports
-http://145.239.5.177:8080/518/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FZWG3Tn.png" group-title="Sports", ESPN Live
-http://144.178.85.10:8080/ESPN1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh1cBLe.png" group-title="Sports", DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oDGQOVP.png" group-title="Sports", Sports Star 1
-https://hotflix-bd.online/Star-Sports-1/video.m3u8?token=3b1e5cfa094fa77ff836f776bde43d53e0f21498-75e141b96b9ff0e46130946949623aa7-1723744015-1723733215&remote=103.115.243.140
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0YQGMD.png" group-title="Sports", Sony Sports https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vq1xJRo.png" group-title="Sports", T-Sports http://example.com/sports-channel1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7aXHQnr.png" group-title="Sports", beIN Sports 1 http://176.9.60.218:8080/BE1HDHEVC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgJr3Uo.png" group-title="Sports", beIN Sports Xtra https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cDRXcr.png" group-title="Sports", Sony Sports5 https://humsab.xyz/S_Ten5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OQ8Pjmh.png" group-title="Sports", Extra Sports http://example.com/sports-channel1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4sYsXQs.png" group-title="Sports", Euro Sports 1 http://109.233.89.166/Eurosport_1_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wt4xdVP.png" group-title="Sports", Euro Sports 2 http://109.233.89.166/Eurosport_2_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqBJBRF.png" group-title="Sports", Grandstand http://145.239.5.177:8080/567/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vq1xJRo.png" group-title="Sports", T-Sports Others https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ks1JQBW.png" group-title="Sports", Amazon-Sports http://145.239.5.177:8080/518/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZWG3Tn.png" group-title="Sports", ESPN Live http://144.178.85.10:8080/ESPN1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh1cBLe.png" group-title="Sports", DD Sports http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oDGQOVP.png" group-title="Sports", Sports Star 1 https://hotflix-bd.online/Star-Sports-1/video.m3u8?token=3b1e5cfa094fa77ff836f776bde43d53e0f21498-75e141b96b9ff0e46130946949623aa7-1723744015-1723733215&remote=103.115.243.140
 ### Kids Channels
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Q6PY7A.png" group-title="Kids", Pogo TV
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9FIqKBM.png" group-title="Kids", NICK_JR
-http://212.102.60.231/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gCiAXzf.png" group-title="Kids", Disney Jr
-http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Aw3Ck6Y.png" group-title="Kids", Discovery Kids
-https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FgONnlp.png" group-title="Kids", CN
-https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Q6PY7A.png" group-title="Kids", Pogo TV https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FIqKBM.png" group-title="Kids", NICK_JR http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gCiAXzf.png" group-title="Kids", Disney Jr http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aw3Ck6Y.png" group-title="Kids", Discovery Kids https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FgONnlp.png" group-title="Kids", CN https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 ### Movie Channels
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Aq3Jcxw.png" group-title="Movies", HBO
-http://212.102.60.231/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dDdGnNj.png" group-title="Movies", SONY_MAX_HINDI
-http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bVB1qdv.png" group-title="Movies", Sony HD
-http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKlI7iW.png" group-title="Movies", Sony Sub
-http://116.202.46.40:9023/SONY_SAB_HINDI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aAxWzRG.png" group-title="Movies", Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/49YAu2h.png" group-title="Movies", Zina TV
-http://85.237.89.6:9590/live/zinatvwild/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aq3Jcxw.png" group-title="Movies", HBO http://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDdGnNj.png" group-title="Movies", SONY_MAX_HINDI http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bVB1qdv.png" group-title="Movies", Sony HD http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QKlI7iW.png" group-title="Movies", Sony Sub http://116.202.46.40:9023/SONY_SAB_HINDI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aAxWzRG.png" group-title="Movies", Sony Kal https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/49YAu2h.png" group-title="Movies", Zina TV http://85.237.89.6:9590/live/zinatvwild/index.m3u8
 ### Islamic Channels
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lLSNl4f.png" group-title="Islamic", Peace TV
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kQbNJ6p.png" group-title="Islamic", Deen TV
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lLSNl4f.png" group-title="Islamic", Peace TV Urdu
-https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kQbNJ6p.png" group-title="Islamic", ION TV
-https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FhvxXxj.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lLSNl4f.png" group-title="Islamic", Peace TV https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kQbNJ6p.png" group-title="Islamic", Deen TV https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lLSNl4f.png" group-title="Islamic", Peace TV Urdu https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kQbNJ6p.png" group-title="Islamic", ION TV https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhvxXxj.png" group-title="Islamic", Madani Channel https://api.visionip.tv/live/ASHTTP/madanitv-madanitv-live-edge-uk/playlist.m3u8
