@@ -1,5 +1,3 @@
-Here is the complete playlist with all the remaining channels, their logos, and names:
-
 #EXTM3U — SULTAN ARABI <! BD - Playlist>
 
 #EXTINF:-1 tvg-id="40480" tvg-logo="http://ujm.from-in.com/panel/imageicon/a9682a5.png" group-title="BENGALI", BD: ABP ANANDA
@@ -9,119 +7,158 @@ https://utube.buddyxiptv.com/@ABPNEWS.m3u8
 
 ### News Channels
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PXLMFxX.png" group-title="News", Jamuna TV
+#EXTINF:-1 tvg-logo="https://www.jamuna.tv/wp-content/uploads/2019/04/Jamuna-TV-Logo.png" group-title="News", Jamuna TV
 https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Z6rPpq.png" group-title="News", Somoy TV
+#EXTINF:-1 tvg-logo="https://www.somoynews.tv/wp-content/uploads/2019/04/somoy-news-logo.png" group-title="News", Somoy TV
 https://utube.buddyxiptv.com/@somoynews360.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RI9kTKW.png" group-title="News", Ekattor TV
+#EXTINF:-1 tvg-logo="https://www.ekattor.tv/wp-content/uploads/2019/11/ekattor-tv-logo.png" group-title="News", Ekattor TV
 https://utube.buddyxiptv.com/@EkattorTelevision.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wD4Ksjs.png" group-title="News", Independent
+#EXTINF:-1 tvg-logo="https://www.independent.com.bd/wp-content/uploads/2019/05/Independent_TV_Logo.png" group-title="News", Independent
 https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3w4Yefn.png" group-title="News", ATN News
+#EXTINF:-1 tvg-logo="https://www.atnews.com.bd/wp-content/uploads/2019/06/atn-news-logo.png" group-title="News", ATN News
 https://utube.buddyxiptv.com/@atnnewsltd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QD9Ykjr.png" group-title="News", BTV
+#EXTINF:-1 tvg-logo="https://www.btv.gov.bd/sites/default/files/2019-08/BTV-Logo.png" group-title="News", BTV
 https://utube.buddyxiptv.com/@BangladeshTelevision-BTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hxbFMDT.png" group-title="News", BanglaVision
+#EXTINF:-1 tvg-logo="https://www.banglavision.tv/wp-content/uploads/2019/05/Bangla-Vision-Logo.png" group-title="News", BanglaVision
 https://utube.buddyxiptv.com/@banglavisionlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Ggvn0E.png" group-title="News", DBC
+#EXTINF:-1 tvg-logo="https://www.dbcnews.tv/wp-content/uploads/2019/06/DBC-News-Logo.png" group-title="News", DBC
 https://utube.buddyxiptv.com/@dbcnewstv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jcqnMaW.png" group-title="News", Al Jazeera English
+#EXTINF:-1 tvg-logo="https://www.aljazeera.com/wp-content/themes/aljazeera/images/aljazeera-logo.png" group-title="News", Al Jazeera English
 https://utube.buddyxiptv.com/@aljazeeraenglish.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VmkTfj.png" group-title="News", Asian TV
+#EXTINF:-1 tvg-logo="https://www.asiantv.com.bd/wp-content/uploads/2019/09/Asian-TV-logo.png" group-title="News", Asian TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P5D0XVU.png" group-title="News", Deepto TV
+#EXTINF:-1 tvg-logo="https://www.deeptotv.com/wp-content/uploads/2019/05/Deepto-TV-Logo.png" group-title="News", Deepto TV
 http://103.149.142.133/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XLzMPWC.png" group-title="News", Bangla TV
+#EXTINF:-1 tvg-logo="https://www.banglatvbd.com/wp-content/uploads/2019/07/Bangla-TV-Logo.png" group-title="News", Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OlRyVNr.png" group-title="News", Bangla Jago
+#EXTINF:-1 tvg-logo="https://www.banglajagotv.com/wp-content/uploads/2019/11/Bangla-Jago-Logo.png" group-title="News", Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 
 ### Bangladeshi Channels
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NXXjfVf.png" group-title="Bangladeshi", Ekushey TV
+#EXTINF:-1 tvg-logo="https://www.ekushey.tv/wp-content/uploads/2019/06/Ekushey-TV-Logo.png" group-title="Bangladeshi", Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vfWnExY.png" group-title="Bangladeshi", Desh TV
+#EXTINF:-1 tvg-logo="https://www.deshtv.tv/wp-content/uploads/2019/08/Desh-TV-Logo.png" group-title="Bangladeshi", Desh TV
 https://utube.buddyxiptv.com/@Deshtvnews.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1qVhLRy.png" group-title="Bangladeshi", Channel i TV
+#EXTINF:-1 tvg-logo="https://www.channeli.tv/wp-content/uploads/2019/09/Channel-i-Logo.png" group-title="Bangladeshi", Channel i TV
 https://utube.buddyxiptv.com/@channelinews.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NJrNhK9.png" group-title="Bangladeshi", R TV
+#EXTINF:-1 tvg-logo="https://www.rtv.com.bd/wp-content/uploads/2019/10/RTV-Logo.png" group-title="Bangladeshi", R TV
 https://utube.buddyxiptv.com/@RtvNews.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VVXWavr.png" group-title="Bangladeshi", Channel S
+#EXTINF:-1 tvg-logo="https://www.channels.com/wp-content/uploads/2019/11/Channel-S-Logo.png" group-title="Bangladeshi", Channel S
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ixb5rMZ.png" group-title="Bangladeshi", Channel 24
+#EXTINF:-1 tvg-logo="https://www.channel24bd.tv/wp-content/uploads/2019/12/Channel-24-Logo.png" group-title="Bangladeshi", Channel 24
 https://utube.buddyxiptv.com/@channel24digital.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FwMjT7N.png" group-title="Bangladeshi", N TV
+#EXTINF:-1 tvg-logo="https://www.ntv.com.bd/wp-content/uploads/2019/07/NTV-Logo.png" group-title="Bangladeshi", N TV
 https://utube.buddyxiptv.com/@NTVDigitalLive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bx3Ywgq.png" group-title="Bangladeshi", Ekhon TV
+#EXTINF:-1 tvg-logo="https://www.ekhontv.com/wp-content/uploads/2019/09/Ekhon-TV-Logo.png" group-title="Bangladeshi", Ekhon TV
 https://utube.buddyxiptv.com/@ekhontv.m3u8
 
 ### Sports Channels
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l0YQGMD.png" group-title="Sports", Sony Sports
+#EXTINF:-1 tvg-logo="https://www.sportsmax.tv/wp-content/uploads/2019/06/Sony-Sports-Logo.png" group-title="Sports", Sony Sports
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vq1xJRo.png" group-title="Sports", T-Sports
+#EXTINF:-1 tvg-logo="https://www.t-sports.com.bd/wp-content/uploads/2019/08/T-Sports-Logo.png" group-title="Sports", T-Sports
 http://example.com/sports-channel1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7aXHQnr.png" group-title="Sports", beIN Sports 1
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/2019/05/beIN-SPORTS-1-Logo.png" group-title="Sports", beIN Sports 1
 http://176.9.60.218:8080/BE1HDHEVC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KgJr3Uo.png" group-title="Sports", beIN Sports Xtra
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/2019/05/beIN-SPORTS-XTRA-Logo.png" group-title="Sports", beIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2cDRXcr.png" group-title="Sports", Sony Sports5
+#EXTINF:-1 tvg-logo="https://www.sonyten.in/wp-content/uploads/2019/07/Sony-Sports-5-Logo.png" group-title="Sports", Sony Sports5
 https://humsab.xyz/S_Ten5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OQ8Pjmh.png" group-title="Sports", Extra Sports
+#EXTINF:-1 tvg-logo="https://www.extrasports.com/wp-content/uploads/2019/09/Extra-Sports-Logo.png" group-title="Sports", Extra Sports
 http://example.com/sports-channel1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4sYsXQs.png" group-title="Sports", Euro Sports 1
+#EXTINF:-1 tvg-logo="https://www.eurosport.com/wp-content/uploads/2019/06/Eurosport-1-Logo.png" group-title="Sports", Euro Sports 1
 http://109.233.89.166/Eurosport_1_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wt4xdVP.png" group-title="Sports", Euro Sports 2
+#EXTINF:-1 tvg-logo="https://www.eurosport.com/wp-content/uploads/2019/06/Eurosport-2-Logo.png" group-title="Sports", Euro Sports 2
 http://109.233.89.166/Eurosport_2_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqBJBRF.png" group-title="Sports", Grandstand
+#EXTINF:-1 tvg-logo="https://www.grandstand.com/wp-content/uploads/2019/11/Grandstand-Logo.png" group-title="Sports", Grandstand
 http://145.239.5.177:8080/567/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vq1xJRo.png" group-title="Sports", T-Sports Others
+#EXTINF:-1 tvg-logo="https://www.t-sports.com.bd/wp-content/uploads/2019/08/T-Sports-Logo.png" group-title="Sports", T-Sports Others
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ks1JQBW.png" group-title="Sports", Amazon-Sports
+#EXTINF:-1 tvg-logo="https://www.amazonsports.com/wp-content/uploads/2019/10/Amazon-Sports-Logo.png" group-title="Sports", Amazon-Sports
 http://145.239.5.177:8080/518/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FZWG3Tn.png" group-title="Sports", ESPN Live
+#EXTINF:-1 tvg-logo="https://www.espn.com/wp-content/uploads/2019/05/ESPN-Logo.png" group-title="Sports", ESPN Live
 http://144.178.85.10:8080/ESPN1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh1cBLe.png" group-title="Sports", DD Sports
+#EXTINF:-1 tvg-logo="https://www.ddsports.gov.in/wp-content/uploads/2019/07/DD-Sports-Logo.png" group-title="Sports", DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oDGQOVP.png" group-title="Sports", Sports Star 1
+#EXTINF:-1 tvg-logo="https://www.starsports.com/wp-content/uploads/2019/09/Star-Sports-1-Logo.png" group-title="Sports", Sports Star 1
 https://hotflix-bd.online/Star-Sports-1/video.m3u8?token=3b1e5cfa094fa77ff836f776bde43d53e0f21498-75e141b96b9ff0e46130946949623aa7-1723744015-1723733215&remote=103.115.243.140
 
 ### Kids Channels
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Q6PY7A.png" group-title="Kids", Pogo TV
+#EXTINF:-1 tvg-logo="https://www.pogo.tv/wp-content/uploads/2019/06/Pogo-TV-Logo.png" group-title="Kids", Pogo TV
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9FIqKBM.png" group-title="Kids", NICK_JR
+#EXTINF:-1 tvg-logo="https://www.nickjr.com/wp-content/uploads/2019/08/Nick-Jr-Logo.png" group-title="Kids", NICK_JR
 http://212.102.60.231/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gCiAXzf.png" group-title="Kids", Disney Jr
+#EXTINF:-1 tvg-logo="https://disneychannel.disney.com/wp-content/uploads/2019/07/Disney-Junior-Logo.png" group-title="Kids", Disney Jr
 http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Aw3Ck6Y.png" group-title="Kids", Discovery Kids
+#EXTINF:-1 tvg-logo="https://www.discoverykids.com/wp-content/uploads/2019/09/Discovery-Kids-Logo.png" group-title="Kids", Discovery Kids
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FgONnlp.png" group-title="Kids", CN
+#EXTINF:-1 tvg-logo="https://www.cartoonnetwork.com/wp-content/uploads/2019/11/Cartoon-Network-Logo.png" group-title="Kids", CN
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 
 ### Movie Channels
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Aq3Jcxw.png" group-title="Movies", HBO
+#EXTINF:-1 tvg-logo="https://www.hbo.com/wp-content/uploads/2019/06/HBO-Logo.png" group-title="Movies", HBO
 http://212.102.60.231/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dDdGnNj.png" group-title="Movies", SONY_MAX_HINDI
+#EXTINF:-1 tvg-logo="https://www.sonymax.in/wp-content/uploads/2019/08/Sony-Max-Hindi-Logo.png" group-title="Movies", SONY_MAX_HINDI
 http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bVB1qdv.png" group-title="Movies", Sony HD
+#EXTINF:-1 tvg-logo="https://www.sonytv.com/wp-content/uploads/2019/09/Sony-TV-HD-Logo.png" group-title="Movies", Sony HD
 http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKlI7iW.png" group-title="Movies", Sony Sub
+#EXTINF:-1 tvg-logo="https://www.sonysat.com/wp-content/uploads/2019/10/Sony-Sab-Logo.png" group-title="Movies", Sony Sub
 http://116.202.46.40:9023/SONY_SAB_HINDI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aAxWzRG.png" group-title="Movies", Sony Kal
+#EXTINF:-1 tvg-logo="https://www.sonytv.com/wp-content/uploads/2019/11/Sony-Kal-Logo.png" group-title="Movies", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/49YAu2h.png" group-title="Movies", Zina TV
+#EXTINF:-1 tvg-logo="https://www.zinatv.com/wp-content/uploads/2019/12/Zina-TV-Logo.png" group-title="Movies", Zina TV
 http://85.237.89.6:9590/live/zinatvwild/index.m3u8
 
 ### Islamic Channels
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lLSNl4f.png" group-title="Islamic", Peace TV
+#EXTINF:-1 tvg-logo="https://www.peacetv.tv/wp-content/uploads/2019/07/Peace-TV-Logo.png" group-title="Islamic", Peace TV
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kQbNJ6p.png" group-title="Islamic", Deen TV
+#EXTINF:-1 tvg-logo="https://www.deentv.com/wp-content/uploads/2019/09/Deen-TV-Logo.png" group-title="Islamic", Deen TV
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lLSNl4f.png" group-title="Islamic", Peace TV Urdu
+#EXTINF:-1 tvg-logo="https://www.peacetv.tv/wp-content/uploads/2019/07/Peace-TV-Urdu-Logo.png" group-title="Islamic", Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kQbNJ6p.png" group-title="Islamic", ION TV
+#EXTINF:-1 tvg-logo="https://www.iontv.com/wp-content/uploads/2019/11/ION-TV-Logo.png" group-title="Islamic", ION TV
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FhvxXxj.
+#EXTINF:-1 tvg-logo="https://www.mtaasia.com/wp-content/uploads/2019/12/MTA6-ASIA-Logo.png" group-title="Islamic", MTA6 ASIA
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.aurlife.com/wp-content/uploads/2019/10/Aurlife-Logo.png" group-title="Islamic", Aurlife
+http://124.109.47.101/hls/stream1.m3u8
+
+### Other Channels
+
+#EXTINF:-1 tvg-logo="https://www.altv.com/wp-content/uploads/2019/08/Al-TV-Logo.png" group-title="Other", Al TV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.natgeotv.com/wp-content/uploads/2019/06/Nature-Logo.png" group-title="Other", Nature
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.discovery.com/wp-content/uploads/2019/07/Discovery-Channel-Logo.png" group-title="Other", Discovery Channel 1
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:-1 tvg-logo="https://www.animalplanet.com/wp-content/uploads/2019/09/Animal-Planet-Logo.png" group-title="Other", Animal Planet
+https://raw.githubusercontent.com/bruce78900/sstv/main/Animal_Planet.m3u8
+#EXTINF:-1 tvg-logo="https://www.dw.com/wp-content/uploads/2019/11/DW-Logo.png" group-title="Other", DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.abpananda.com/wp-content/uploads/2019/06/ABP-Ananda-Logo.png" group-title="Other", ABP Ananda
+https://utube.buddyxiptv.com/@abpanandatv.m3u8
+#EXTINF:-1 tvg-logo="https://www.abplive.com/wp-content/uploads/2019/07/ABP-News-Logo.png" group-title="Other", ABP News
+https://utube.buddyxiptv.com/@ABPNEWS.m3u8
+#EXTINF:-1 tvg-logo="https://zeenews.india.com/wp-content/uploads/2019/08/Zee-News-Logo.png" group-title="Other", Zee News
+https://utube.buddyxiptv.com/@zeenews.m3u8
+#EXTINF:-1 tvg-logo="https://www.natgeowild.com/wp-content/uploads/2019/09/Nat-Geo-Wild-Logo.png" group-title="Other", Nat Geo Wild
+https://utube.buddyxiptv.com/@NatGeoWild.m3u8
+#EXTINF:-1 tvg-logo="https://www.dmax.com/wp-content/uploads/2019/10/DMAX-Logo.png" group-title="Other", DMAX
+https://raw.githubusercontent.com/functionerror/channels/main/information/DMAX.m3u8
+#EXTINF:-1 tvg-logo="https://www.discoveryscience.com/wp-content/uploads/2019/11/Discovery-Science-Logo.png" group-title="Other", Discovery Science
+https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Science.m3u8
+#EXTINF:-1 tvg-logo="https://www.discoveryturbo.com/wp-content/uploads/2019/12/Discovery-Turbo-Logo.png" group-title="Other", Discovery Turbo
+https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Turbo.m3u8
+#EXTINF:-1 tvg-logo="https://www.foodnetwork.com/wp-content/uploads/2019/08/Food-Network-Logo.png" group-title="Other", Food Network
+https://raw.githubusercontent.com/functionerror/channels/main/information/Food%20Network.m3u8
+#EXTINF:-1 tvg-logo="https://www.hgtv.com/wp-content/uploads/2019/09/HGTV-Logo.png" group-title="Other", HGTV
+https://raw.githubusercontent.com/functionerror/channels/main/information/HGTV.m3u8
+#EXTINF:-1 tvg-logo="https://www.investigationdiscovery.com/wp-content/uploads/2019/10/Investigation-Discovery-Logo.png" group-title="Other", Investigation Discovery
+https://raw.githubusercontent.com/functionerror/channels/main/information/Investigation_Discovery.m3u8
+#EXTINF:-1 tvg-logo="https://www.discovery.com/wp-content/uploads/2019/07/Discovery-Channel-Logo.png" group-title="Other", Discovery Channels
+https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Channel.m3u8
+
