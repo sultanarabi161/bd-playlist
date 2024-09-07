@@ -1,5 +1,6 @@
-#EXTM3U — SULTAN ARABI <! BD - Playlist>
 
+
+#EXTM3U — SULTAN ARABI <! BD - Playlist>
 
 ### News Channels
 
@@ -134,7 +135,7 @@ https://raw.githubusercontent.com/bruce78900/sstv/main/Animal_Planet.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZZQvwqS1XoGHPIRLKydTrC0lG6H2nX47lUwtwnQX7F4B4WYk2YLKL5OL&s=10" group-title="Other", ABP Ananda
 https://utube.buddyxiptv.com/@abpanandatv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZZQvwqS1XoGHPIRLKydTrC0lG6H2nX47lUwtwnQX7F4B4WYk2YLKL5OL&s=10" group-title="Other", ABP News
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiDmJV91gw26r4IkIyXtZ5JUUQoe906Ebqpw&usqp=CAU" group-title="Other", ABP News
 https://utube.buddyxiptv.com/@ABPNEWS.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8j30rrSWw8fPqzr1ZJ4tfblCFGu4FhFpUnOCD1-QzYze-qTblp3zyaW_S&s=10" group-title="Other", Zee News
 https://utube.buddyxiptv.com/@zeenews.m3u8
