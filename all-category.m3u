@@ -1,158 +1,157 @@
 #EXTM3U — SULTAN ARABI <! BD - Playlist>
 
-#EXTINF:-1 tvg-id="40480" tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png" group-title="BENGALI", BD: ABP ANANDA
-https://utube.buddyxiptv.com/@abpanandatv.m3u8
-#EXTINF:-1 tvg-id="90255" tvg-logo="https://i.postimg.cc/zGjvSfDr/image.jpg" group-title="BENGALI", BD: ANANDA TV
-https://utube.buddyxiptv.com/@ABPNEWS.m3u8
 
 ### News Channels
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1Gyczj1/ds3aThu_2.jpg" group-title="News", Jamuna TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10" group-title="News", Jamuna TV
 https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yHtY8tg/Somoy-TV.jpg" group-title="News", Somoy TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XT6bqeyaDbp7ZU4CUCeJQmDnvO8nR10qNEvUR0F6x2EReF9vi0tXmPFp&s=10" group-title="News", Somoy TV
 https://utube.buddyxiptv.com/@somoynews360.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c9Y58zZ/1200px-Ekattor-TV-logo-svg.png" group-title="News", Ekattor TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwiWwMF7vz1WjLFI5XDpn1gPsL8F_jekTnZxTTXNTAIBMb34zne0gpmfZa&s=10" group-title="News", Ekattor TV
 https://utube.buddyxiptv.com/@EkattorTelevision.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt0gJzbc/kviJN1i.png" group-title="News", Independent
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EnxMKoBQvWpoqa6WchdaWz1ROQNzXjVbi_g_BFXEQPwf7PCc55WzbJY&s=10" group-title="News", Independent TV
 https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJZR1XFM/Atnnews-2.jpg" group-title="News", ATN News
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKpp91zfTj9iHqZjc51K9xStUehDh_UC3FP8wLUHSSqJUdbQLfO8Qc9Q&s=10" group-title="News", ATN News
 https://utube.buddyxiptv.com/@atnnewsltd.m3u8
-#EXTINF:-1 tvg-logo="https://www.btv.gov.bd/sites/default/files/2019-08/BTV-Logo.png" group-title="News", BTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3dOWDR6-EhmPjh6-B5cANmPB2MeQ1l37Z-eKiNaDxDU85REDetvThcsHz&s=10" group-title="News", BTV
 https://utube.buddyxiptv.com/@BangladeshTelevision-BTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs4LFBd9/HX8SSDA.png" group-title="News", BanglaVision
+#EXTINF:-1 tvg-logo="https://www.bvnews24.com/media/common/logo-fb-new.png" group-title="News", BanglaVision
 https://utube.buddyxiptv.com/@banglavisionlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43dZL7vq/djAX8Rc.png" group-title="News", DBC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu5esWQJMeidST4hBxJU38A0ypGGvGeMsMcbxB_c-Xl2LHYF-vv42wqybO&s=10" group-title="News", DBC
 https://utube.buddyxiptv.com/@dbcnewstv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2ywTm5x7/download.png" group-title="News", Al Jazeera English
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_WLUYEDdW0U3CnpT0mUpYLVfgq7B1DBCK3He1fswY0WfofO0oZwQA5cs&s=10" group-title="News", Al Jazeera English
 https://utube.buddyxiptv.com/@aljazeeraenglish.m3u8
-#EXTINF:-1 tvg-logo="https://www.asiantv.com.bd/wp-content/uploads/2019/09/Asian-TV-logo.png" group-title="News", Asian TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuGK59BsAzg0HkKoWYLXQWbkzpazIgvThiaVx9XE9zCuZKYQCEIyl4zz_d&s=10" group-title="News", Asian TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="News", Ekhon TV
-https://utube.buddyxiptv.com/@ekhontv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YFvyj2m/Deshtv.png" group-title="News", Desh TV
-https://utube.buddyxiptv.com/@Deshtvnews.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbjjbSgJ/p0I5dr0_2.png" group-title="News", Channel i TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVjtzEDUULzKQyQVB9qV8H4vLFyP_hyQhvig&usqp=CAU" group-title="News", Deepto TV
+https://utube.buddyxiptv.com/@deeptotv.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcBanglaTV" group-title="News", Bangla TV
+https://utube.buddyxiptv.com/@banglatvbd.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGe167yjB977DD6YjmDqVt9QOb2ZPqkCusAPqLvKqvv14eu3KzPExkLYEg&s=10" group-title="News", Bangla Jago
+https://utube.buddyxiptv.com/@banglajagotv.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.o5v3LkzEwpINwvh5iSvtlgAAAA?rs=1&pid=ImgDetMain" group-title="News", Ekushey TV
+https://utube.buddyxiptv.com/@ekusheytv.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/51/eb/48/51eb480e58cb0e4290e568d902c662a9.jpg" group-title="News", Desh TV
+https://utube.buddyxiptv.com/@deshtv.m3u8
+#EXTINF:-1 tvg-logo="https://iventurebd.com/wp-content/uploads/2023/07/Channel-i-150x150.jpg" group-title="News", Channel i TV
 https://utube.buddyxiptv.com/@channelinews.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfN3wzzs/yi5p51T.png" group-title="News", R TV
-https://utube.buddyxiptv.com/@RtvNews.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ls4n3800/MmhxR5E.png" group-title="News", Channel 24
-https://utube.buddyxiptv.com/@channel24digital.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png" group-title="News", N TV
-https://utube.buddyxiptv.com/@NTVDigitalLive.m3u8
-
-### Bangladeshi Channels
-
-#EXTINF:-1 tvg-logo="https://www.ekushey.tv/wp-content/uploads/2019/06/Ekushey-TV-Logo.png" group-title="Bangladeshi", Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="Bangladeshi", Ekhon TV
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.5bebf5858954f8defc62d7cc51468e75?rik=o6F5Kiufp8cOrA&riu=http%3a%2f%2fwww.bdquery.com%2flogo%2f2720.jpg&ehk=oGxT7ElJ0WpQXPpbIbkLt%2byZcAUS5%2fnSAz%2fjXw99Jfg%3d&risl=&pid=ImgRaw&r=0" group-title="News", R TV
+https://utube.buddyxiptv.com/@rtv.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836470145652383744/v4refNT9_400x400.jpg" group-title="News", Channel S
+https://utube.buddyxiptv.com/@channels.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.QgZhl1OXYetHvjVtWE00CwHaHa?w=900&h=900&rs=1&pid=ImgDetMain" group-title="News", Channel 24
+https://utube.buddyxiptv.com/@channel24bd.m3u8
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/images/ntv-facebook.jpg" group-title="News", N TV
+https://utube.buddyxiptv.com/@ntv.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Xece0gzkw9PaXsmJLUJcewHaHa?rs=1&pid=ImgDetMain" group-title="News", Ekhon TV
 https://utube.buddyxiptv.com/@ekhontv.m3u8
 
 ### Sports Channels
 
-#EXTINF:-1 tvg-logo="https://www.sportsmax.tv/wp-content/uploads/2019/06/Sony-Sports-Logo.png" group-title="Sports", Sony Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyO_JpA0W3JdrawWdECMt2ogOselxhl_NlR49TayeT3kZrSs5g9u18AWlM&s=10" group-title="Sports", Sony Sports
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.t-sports.com.bd/wp-content/uploads/2019/08/T-Sports-Logo.png" group-title="Sports", T-Sports
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.D_k2Vl7mzEYsij3arXInawAAAA?w=200&h=200&rs=1&pid=ImgDetMain" group-title="Sports", T-Sports
 http://example.com/sports-channel1.m3u8
-#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/2019/05/beIN-SPORTS-1-Logo.png" group-title="Sports", beIN Sports 1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Sports", beIN Sports 1
 http://176.9.60.218:8080/BE1HDHEVC/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/2019/05/beIN-SPORTS-XTRA-Logo.png" group-title="Sports", beIN Sports Xtra
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/600x600.webp?type=color_onBlack" group-title="Sports", beIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonyten.in/wp-content/uploads/2019/07/Sony-Sports-5-Logo.png" group-title="Sports", Sony Sports5
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.u_3X5hyRlnbUMsRA33bj1gAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Sony Sports5
 https://humsab.xyz/S_Ten5/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.extrasports.com/wp-content/uploads/2019/09/Extra-Sports-Logo.png" group-title="Sports", Extra Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzIeskF5rD3u7vTt3Z3S5okvV9Dk1UXw9vQ&usqp=CAU" group-title="Sports", Extra Sports
 http://example.com/sports-channel1.m3u8
-#EXTINF:-1 tvg-logo="https://www.eurosport.com/wp-content/uploads/2019/06/Eurosport-1-Logo.png" group-title="Sports", Euro Sports 1
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.GH_4N4cvFC-NKzzzQQgFhQHaHa?w=500&h=500&rs=1&pid=ImgDetMain" group-title="Sports", Euro Sports 1
 http://109.233.89.166/Eurosport_1_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.eurosport.com/wp-content/uploads/2019/06/Eurosport-2-Logo.png" group-title="Sports", Euro Sports 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq3Cm2H8g8v9OdF6PZTHQaE7DJw1fSQee2Wb1U1uOQzTXqg4FSx4D97H3L&s=10" group-title="Sports", Euro Sports 2
 http://109.233.89.166/Eurosport_2_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.grandstand.com/wp-content/uploads/2019/11/Grandstand-Logo.png" group-title="Sports", Grandstand
+#EXTINF:-1 tvg-logo="https://www.grandstand.com/wp-content/uploads/logo-23.png" group-title="Sports", Grandstand
 http://145.239.5.177:8080/567/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.t-sports.com.bd/wp-content/uploads/2019/08/T-Sports-Logo.png" group-title="Sports", T-Sports Others
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.D_k2Vl7mzEYsij3arXInawAAAA?w=200&h=200&rs=1&pid=ImgDetMain" group-title="Sports", T-Sports Others
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.amazonsports.com/wp-content/uploads/2019/10/Amazon-Sports-Logo.png" group-title="Sports", Amazon-Sports
 http://145.239.5.177:8080/518/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.espn.com/wp-content/uploads/2019/05/ESPN-Logo.png" group-title="Sports", ESPN Live
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1824436409681252352/pu/img/TORp4XOLpBfaBnM4.jpg" group-title="Sports", ESPN Live
 http://144.178.85.10:8080/ESPN1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.ddsports.gov.in/wp-content/uploads/2019/07/DD-Sports-Logo.png" group-title="Sports", DD Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXFOyzyD_StzIsw2VF6y6qWNw6mrdvK0OHx4PfHtj5YBjwDdUWz8PixitS&s=10" group-title="Sports", DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.starsports.com/wp-content/uploads/2019/09/Star-Sports-1-Logo.png" group-title="Sports", Sports Star 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKu4LSeab0x8VdakYbELT0FqJbjHZBqEVL_w&usqp=CAU" group-title="Sports", Sports Star 1
 https://hotflix-bd.online/Star-Sports-1/video.m3u8?token=3b1e5cfa094fa77ff836f776bde43d53e0f21498-75e141b96b9ff0e46130946949623aa7-1723744015-1723733215&remote=103.115.243.140
 
 ### Kids Channels
 
-#EXTINF:-1 tvg-logo="https://www.pogo.tv/wp-content/uploads/2019/06/Pogo-TV-Logo.png" group-title="Kids", Pogo TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQySsUe6YVUstmCI7sEmf1VGCO59yn72GSUlXGwrIJu6_991hFBQaET_Cxb&s=10" group-title="Kids", Pogo TV
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.nickjr.com/wp-content/uploads/2019/08/Nick-Jr-Logo.png" group-title="Kids", NICK_JR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3gSF7WbdeGg2kCbrjJvXeySbBZLIxUpLAg&usqp=CAU" group-title="Kids", NICK_JR
 http://212.102.60.231/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://disneychannel.disney.com/wp-content/uploads/2019/07/Disney-Junior-Logo.png" group-title="Kids", Disney Jr
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GBHxRG9axKIcgGytA8ox5nAf1VNw8Ti5Zg&usqp=CAU" group-title="Kids", Disney Jr
 http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.discoverykids.com/wp-content/uploads/2019/09/Discovery-Kids-Logo.png" group-title="Kids", Discovery Kids
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmqGu_5F8YGTCRqZdAc-CJ6wRLIsyr0ciAzA&usqp=CAU" group-title="Kids", Discovery Kids
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.cartoonnetwork.com/wp-content/uploads/2019/11/Cartoon-Network-Logo.png" group-title="Kids", CN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd4_8A9l3MeBiB3HdFI7AADY7QORxEz7OeMw&usqp=CAU" group-title="Kids", CN (Cartoon Network)
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 
-### Movie Channels
+### Movies Channels
 
-#EXTINF:-1 tvg-logo="https://www.hbo.com/wp-content/uploads/2019/06/HBO-Logo.png" group-title="Movies", HBO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmqGu_5F8YGTCRqZdAc-CJ6wRLIsyr0ciAzA&usqp=CAU" group-title="Movies", HBO
 http://212.102.60.231/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonymax.in/wp-content/uploads/2019/08/Sony-Max-Hindi-Logo.png" group-title="Movies", SONY_MAX_HINDI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRtlJo0v85-rft1KynK19fRXW_fpVgROvW867cLnM7uLzpXVhje6Ynsj8&s=10" group-title="Movies", SONY_MAX_HINDI
 http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonytv.com/wp-content/uploads/2019/09/Sony-TV-HD-Logo.png" group-title="Movies", Sony HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3dOWDR6-EhmPjh6-B5cANmPB2MeQ1l37Z-eKiNaDxDU85REDetvThcsHz&s=10" group-title="Movies", Sony HD
 http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonysat.com/wp-content/uploads/2019/10/Sony-Sab-Logo.png" group-title="Movies", Sony Sub
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XT6bqeyaDbp7ZU4CUCeJQmDnvO8nR10qNEvUR0F6x2EReF9vi0tXmPFp&s=10" group-title="Movies", Sony Sub
 http://116.202.46.40:9023/SONY_SAB_HINDI/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonytv.com/wp-content/uploads/2019/11/Sony-Kal-Logo.png" group-title="Movies", Sony Kal
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGe167yjB977DD6YjmDqVt9QOb2ZPqkCusAPqLvKqvv14eu3KzPExkLYEg&s=10" group-title="Movies", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.zinatv.com/wp-content/uploads/2019/12/Zina-TV-Logo.png" group-title="Movies", Zina TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-otgXqdDNiw4SqQds0NTIz7HScTmHyGECZeSxOGnCNJmcgUIhmhnXB8k&s=10" group-title="Movies", Zina TV
 http://85.237.89.6:9590/live/zinatvwild/index.m3u8
 
 ### Islamic Channels
 
-#EXTINF:-1 tvg-logo="https://www.peacetv.tv/wp-content/uploads/2019/07/Peace-TV-Logo.png" group-title="Islamic", Peace TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYgfGx2t9Sp-4mCnpF9PnNyqGkjnz0B2PxHq9ok8g0WqOVPj1FIkPPyc&s=10" group-title="Islamic", Peace TV
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.deentv.com/wp-content/uploads/2019/09/Deen-TV-Logo.png" group-title="Islamic", Deen TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXuI-WZw_JrenLNQypxtB6_L27Y0BGP1dg6Q&usqp=CAU" group-title="Islamic", Deen TV
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.peacetv.tv/wp-content/uploads/2019/07/Peace-TV-Urdu-Logo.png" group-title="Islamic", Peace TV Urdu
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIY7aMfpaqlK3SFiunQqUeRN1UyQmLMjQWfhWnOajj6AnDfBLsMnWXqCc&s=10" group-title="Islamic", Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.iontv.com/wp-content/uploads/2019/11/ION-TV-Logo.png" group-title="Islamic", ION TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHv1dNLlYuHca3d7cVuZET4-7K1b-F9FzzYg&usqp=CAU" group-title="Islamic", ION TV
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mtaasia.com/wp-content/uploads/2019/12/MTA6-ASIA-Logo.png" group-title="Islamic", MTA6 ASIA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs7P_Br6WLQxmgQigjpUaa5T_jN1N3PM219A&usqp=CAU" group-title="Islamic", MTA6 ASIA
 https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.aurlife.com/wp-content/uploads/2019/10/Aurlife-Logo.png" group-title="Islamic", Aurlife
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpEubrGfJL-7rITgjJ-lT_Tx5742SbO3rfD724Wp1YI_WsXcMuQ0usVvtP&s=10" group-title="Islamic", Aurlife
 http://124.109.47.101/hls/stream1.m3u8
 
-### Other Channels
+### Others Channels
 
-#EXTINF:-1 tvg-logo="https://www.altv.com/wp-content/uploads/2019/08/Al-TV-Logo.png" group-title="Other", Al TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMJ_pv_UwsSruVLc9ihrAeaY75Km9hPFGow&usqp=CAU" group-title="Other", Al TV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.natgeotv.com/wp-content/uploads/2019/06/Nature-Logo.png" group-title="Other", Nature
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHhDE-tdx5VA7XqYsTeBMx-1bhMB0Xa1uRatFEavnR4uKz3O0Yea0n48&s=10" group-title="Other", Nature
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.discovery.com/wp-content/uploads/2019/07/Discovery-Channel-Logo.png" group-title="Other", Discovery Channel 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IArqV9qBmZ7NUZm_aFVbbEFplIP2PAui5w&usqp=CAU" group-title="Other", Discovery Channel 1
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.animalplanet.com/wp-content/uploads/2019/09/Animal-Planet-Logo.png" group-title="Other", Animal Planet
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyfop14HBtKC0amgBNtYDsOZc1N_AzGb3MK2FDufroedmGtJqz3izzPj6N&s=10" group-title="Other", Animal Planet
 https://raw.githubusercontent.com/bruce78900/sstv/main/Animal_Planet.m3u8
-#EXTINF:-1 tvg-logo="https://www.dw.com/wp-content/uploads/2019/11/DW-Logo.png" group-title="Other", DW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZZQvwqS1XoGHPIRLKydTrC0lG6H2nX47lUwtwnQX7F4B4WYk2YLKL5OL&s=10" group-title="Other", DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.abpananda.com/wp-content/uploads/2019/06/ABP-Ananda-Logo.png" group-title="Other", ABP Ananda
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZZQvwqS1XoGHPIRLKydTrC0lG6H2nX47lUwtwnQX7F4B4WYk2YLKL5OL&s=10" group-title="Other", ABP Ananda
 https://utube.buddyxiptv.com/@abpanandatv.m3u8
-#EXTINF:-1 tvg-logo="https://www.abplive.com/wp-content/uploads/2019/07/ABP-News-Logo.png" group-title="Other", ABP News
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZZQvwqS1XoGHPIRLKydTrC0lG6H2nX47lUwtwnQX7F4B4WYk2YLKL5OL&s=10" group-title="Other", ABP News
 https://utube.buddyxiptv.com/@ABPNEWS.m3u8
-#EXTINF:-1 tvg-logo="https://zeenews.india.com/wp-content/uploads/2019/08/Zee-News-Logo.png" group-title="Other", Zee News
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8j30rrSWw8fPqzr1ZJ4tfblCFGu4FhFpUnOCD1-QzYze-qTblp3zyaW_S&s=10" group-title="Other", Zee News
 https://utube.buddyxiptv.com/@zeenews.m3u8
-#EXTINF:-1 tvg-logo="https://www.natgeowild.com/wp-content/uploads/2019/09/Nat-Geo-Wild-Logo.png" group-title="Other", Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVo73DmwciKD7Vh571AdiiXXrW85G7ydf98weCMLdEzVxiq4eDzvMbhd-&s=10" group-title="Other", Nat Geo Wild
 https://utube.buddyxiptv.com/@NatGeoWild.m3u8
-#EXTINF:-1 tvg-logo="https://www.dmax.com/wp-content/uploads/2019/10/DMAX-Logo.png" group-title="Other", DMAX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfQsicS4HOvfxpn-iAMJNoDR_0Md48R-tJhYefvJjPcCyoBsRx7Swt2-o&s=10" group-title="Other", DMAX
 https://raw.githubusercontent.com/functionerror/channels/main/information/DMAX.m3u8
-#EXTINF:-1 tvg-logo="https://www.discoveryscience.com/wp-content/uploads/2019/11/Discovery-Science-Logo.png" group-title="Other", Discovery Science
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy_AMqR4xkCe6AxrRVfb2K38qiMcoRh7FUVEByNfE-e44Tf3-5H7NVieXj&s=10" group-title="Other", Discovery Science
 https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Science.m3u8
-#EXTINF:-1 tvg-logo="https://www.discoveryturbo.com/wp-content/uploads/2019/12/Discovery-Turbo-Logo.png" group-title="Other", Discovery Turbo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwazBsUJpKtARUyyuDn9D-cY8gXPsnaYNNENgFLXsATDy7XSkgzI04jn8&s=10" group-title="Other", Discovery Turbo
 https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Turbo.m3u8
-#EXTINF:-1 tvg-logo="https://www.foodnetwork.com/wp-content/uploads/2019/08/Food-Network-Logo.png" group-title="Other", Food Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Other", Food Network
 https://raw.githubusercontent.com/functionerror/channels/main/information/Food%20Network.m3u8
-#EXTINF:-1 tvg-logo="https://www.hgtv.com/wp-content/uploads/2019/09/HGTV-Logo.png" group-title="Other", HGTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnOgWYVNfZVEtgb04dpD9dA1Bi7M0m6wsXg&usqp=CAU" group-title="Other", HGTV
 https://raw.githubusercontent.com/functionerror/channels/main/information/HGTV.m3u8
-#EXTINF:-1 tvg-logo="https://www.investigationdiscovery.com/wp-content/uploads/2019/10/Investigation-Discovery-Logo.png" group-title="Other", Investigation Discovery
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_tWS4SCGY_jsblYPCJbslT2lCKLJLkPZd9XAcwV8o_y7dI63AjlS3YLR&s=10" group-title="Other", Investigation Discovery
 https://raw.githubusercontent.com/functionerror/channels/main/information/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-logo="https://www.discovery.com/wp-content/uploads/2019/07/Discovery-Channel-Logo.png" group-title="Other", Discovery Channels
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDPjpFoSc7u5GBmaYQoxWf16pG-vtSQc1zQ&usqp=CAU" group-title="Other", Discovery Channels
 https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Channel.m3u8
 
