@@ -156,3 +156,75 @@ https://raw.githubusercontent.com/functionerror/channels/main/information/Invest
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDPjpFoSc7u5GBmaYQoxWf16pG-vtSQc1zQ&usqp=CAU" group-title="Other", Discovery Channels
 https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Channel.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10" group-title="News", Jamuna TV
+https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XT6bqeyaDbp7ZU4CUCeJQmDnvO8nR10qNEvUR0F6x2EReF9vi0tXmPFp&s=10" group-title="News", Somoy TV
+https://utube.buddyxiptv.com/@somoynews360.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/shubhtvlogo.png" group-title="General", SHUBH TV
+https://raw.githubusercontent.com/msujoy1495/Live-TV/main/OrangeTV.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/srilankatvlogo.png" group-title="General", SRI LANKA TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/starsports1logo.png" group-title="Sports", STAR SPORTS 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/starsports5logo.png" group-title="Sports", STAR SPORTS 5
+http://humsab.xyz/S_Ten5/index.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/nickjrlogo.png" group-title="Kids", NICK JR
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/tlclogo.png" group-title="Entertainment", TLC
+https://watchtvs.live/discovery/m3u8/TLC.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/travelxplogo.png" group-title="Travel", TRAVELXP
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/wildtvlogo.png" group-title="Wildlife", WILD TV
+https://wild.mssarena71.workers.dev/live/NatGeoWild.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/bbcearthlogo.png" group-title="Wildlife", BBC EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/sangeetbanglalogo.png" group-title="Music", SANGEET BANGLA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/9xmlogo.png" group-title="Music", 9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/enter10logo.png" group-title="Entertainment", ENTER 10
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/zeebanglahdlogo.png" group-title="Entertainment", ZEE BANGLA HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/zeenewslogo.png" group-title="News", ZEE NEWS
+https://zee-news.mssarena71.workers.dev/live/@zeenews.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/tv9banglalogo.png" group-title="News", TV9 BANGLA
+https://tv9-bangla.mssarena71.workers.dev/live/@TV9BanglaLive.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/zee24ghantalogo.png" group-title="News", ZEE GHANTA 24
+https://zee-24-ghanta.mssarena71.workers.dev/live/@Zee24Ghanta.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/republicbanglalogo.png" group-title="News", REPUBLIC BANGLA 
+https://r-bangla.mssarena71.workers.dev/live/@republicbangla.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/goldminelogo.png" group-title="Movies", GOLDMINE
+https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/moviesnowlogo.png" group-title="Movies", MOVIES NOW
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/zeecinemalogo.png" group-title="Movies", ZEE CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/moviebanglalogo.png" group-title="Movies", MOVIE BANGLA 
+http://alvetv.com/mbtv/8080/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10" group-title="News", Jamuna TV
+https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XT6bqeyaDbp7ZU4CUCeJQmDnvO8nR10qNEvUR0F6x2EReF9vi0tXmPFp&s=10" group-title="News", Somoy TV
+https://utube.buddyxiptv.com/@somoynews360.m3u8
+#EXTINF:-1 tvg-logo="https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/logo.png" group-title="Movies", & PICTURE 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+#EXTINF:-1 tvg-logo="https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/logo.png" group-title="Movies", ZEE BANGLA CINEMA 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/logo/star1.png" group-title="Sports", STAR 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1 tvg-logo="https://example.com/logo/abudhabi1.png" group-title="Sports", ABU DHABI SPORTS 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/logo/rtvmusic.png" group-title="Music", R TV MuSIC
+https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/logo/rplus.png" group-title="News", R PLUS
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/logo/onkartv.png" group-title="Religious", ONKAR BANGLA 
+https://ythls.armelin.one/channel/UCEehFQbkw72mMNSqH-7YJ_w.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/logo/kolkatatv.png" group-title="News", KOLKATA TV
+https://ythls.armelin.one/channel/UCNvCQpcafnbW4KQ8X7oQ9kg.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/logo/highnews.png" group-title="News", HIGH NEWS
+https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+
