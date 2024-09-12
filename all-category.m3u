@@ -1,5 +1,3 @@
-
-
 #EXTM3U — SULTAN ARABI <! BD - Playlist>
 
 ### News Channels
@@ -211,7 +209,7 @@ https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
 https://utube.buddyxiptv.com/@somoynews360.m3u8
 #EXTINF:-1 tvg-logo="https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/logo.png" group-title="Movies", & PICTURE 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
-#EXTINF:-1 tvg-logo="https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/logo.png" group-title="Movies", ZEE BANGLA CINEMA 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd0sgacqfcq_o7Rh3pdxxzCCEiw91C6ZCPFiDEP2W3-dLvKrSgXoBRXN2Y&s=10" group-title="Movies", ZEE BANGLA CINEMA 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #EXTINF:-1 tvg-logo="https://example.com/logo/star1.png" group-title="Sports", STAR 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
