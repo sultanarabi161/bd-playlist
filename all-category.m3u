@@ -167,27 +167,28 @@ https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/in
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://example.com/starsports5logo.png" group-title="Sports", STAR SPORTS 5
 http://humsab.xyz/S_Ten5/index.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/nickjrlogo.png" group-title="Kids", NICK JR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbEHYBwSYUoRp10S4mzj-x-eXCsA8kHT_Kfewr9AToVNg8lOBCY0XZi_U&s=10" group-title="Kids", NICK JR
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/tlclogo.png" group-title="Entertainment", TLC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3s4Dxn9rPcVIYqEDJCfz-8wfy9Wht1uL6ug&usqp=CAU" group-title="Entertainment", TLC
 https://watchtvs.live/discovery/m3u8/TLC.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/travelxplogo.png" group-title="Travel", TRAVELXP
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXooNrgwNlgdGH9gDzIl_N7Sq9zZza3k7b-w_YNxtdpypQoUa_FX3Do8K&s=10
+" group-title="Travel", TRAVELXP
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/1200.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/wildtvlogo.png" group-title="Wildlife", WILD TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbZ0ihAYG7cw1FWg4D_Nc9ScPSFH_BlO7i8Gg5MPcj6pq_B45oTxguIAX&s=10" group-title="Wildlife", WILD TV
 https://wild.mssarena71.workers.dev/live/NatGeoWild.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/bbcearthlogo.png" group-title="Wildlife", BBC EARTH
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzH8WRqxrLdvIRCwp79thqHDARnBze84dvTmoPpnIkw0lLzaDw_ecHu-Kd&s=10" group-title="Wildlife", BBC EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/sangeetbanglalogo.png" group-title="Music", SANGEET BANGLA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/49/Sangeet_Bangla_logo_%282018%29.png/revision/latest?cb=20210423122202" group-title="Music", SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/9xmlogo.png" group-title="Music", 9XM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2lReZdl9fmm9CSOqKwuKNoAxQv5VHQAWgBj8u3eVCO5dRtCu-Xtn98Y&s=10" group-title="Music", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/enter10logo.png" group-title="Entertainment", ENTER 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Entertainment", ENTER 10
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/zeebanglahdlogo.png" group-title="Entertainment", ZEE BANGLA HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqP88B1WdwSUea521hUHm80BqYXyA_IHNv_jYTSbBYuiDxi2Wf2dhrZM&s=10" group-title="Entertainment", ZEE BANGLA HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/zeenewslogo.png" group-title="News", ZEE NEWS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8j30rrSWw8fPqzr1ZJ4tfblCFGu4FhFpUnOCD1-QzYze-qTblp3zyaW_S&s=10" group-title="News", ZEE NEWS
 https://zee-news.mssarena71.workers.dev/live/@zeenews.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/tv9banglalogo.png" group-title="News", TV9 BANGLA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVpu4y6KGiaq6_YoR6l9hD3mYqaI75KdyhLTorLFieg8naXX4BuK6yxzs&s=10" group-title="News", TV9 BANGLA
 https://tv9-bangla.mssarena71.workers.dev/live/@TV9BanglaLive.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ii6es9vZNnm8vfHkuaobCkiO2-bc6eY9krxHdpWe4BZ7yFt4pltv_CusbWkmc2YKay9sz2A8Mhk=s900-c-k-c0x00ffffff-no-rj" group-title="News", ZEE GHANTA 24
 https://zee-24-ghanta.mssarena71.workers.dev/live/@Zee24Ghanta.m3u8
