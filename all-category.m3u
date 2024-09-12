@@ -189,40 +189,35 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 https://zee-news.mssarena71.workers.dev/live/@zeenews.m3u8
 #EXTINF:-1 tvg-logo="https://example.com/tv9banglalogo.png" group-title="News", TV9 BANGLA
 https://tv9-bangla.mssarena71.workers.dev/live/@TV9BanglaLive.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/zee24ghantalogo.png" group-title="News", ZEE GHANTA 24
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ii6es9vZNnm8vfHkuaobCkiO2-bc6eY9krxHdpWe4BZ7yFt4pltv_CusbWkmc2YKay9sz2A8Mhk=s900-c-k-c0x00ffffff-no-rj" group-title="News", ZEE GHANTA 24
 https://zee-24-ghanta.mssarena71.workers.dev/live/@Zee24Ghanta.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/republicbanglalogo.png" group-title="News", REPUBLIC BANGLA 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_dkuhURvTgI96Tf-9hCKJKmE7T6YAmewdg&usqp=CAU" group-title="News", REPUBLIC BANGLA 
 https://r-bangla.mssarena71.workers.dev/live/@republicbangla.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/goldminelogo.png" group-title="Movies", GOLDMINE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hOnvBQw7DaWbEffif0Qnqd3lAzQVVR883UdhrRwOMiGhGiHsVADPbsw&s=10" group-title="Movies", GOLDMINE
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/moviesnowlogo.png" group-title="Movies", MOVIES NOW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3611F4RIduH7LrWfRk5IVkanT2k-xkFPa3EuB2VennjqrmrYPRDmfd8&s=10" group-title="Movies", MOVIES NOW
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/zeecinemalogo.png" group-title="Movies", ZEE CINEMA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzcZtadM4RSjBp7JZF49VWdOzCL8rWejgLKZ1spZvGk2-xKhc7TziwEjVK&s=10" group-title="Movies", ZEE CINEMA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/moviebanglalogo.png" group-title="Movies", MOVIE BANGLA 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc_NBTv-HZeASFNrJyegml_rPspYy4SpTg1PWO2E6gq9pBp1xs4YsgNg8&s=10" group-title="Movies", MOVIE BANGLA 
 http://alvetv.com/mbtv/8080/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10" group-title="News", Jamuna TV
-https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XT6bqeyaDbp7ZU4CUCeJQmDnvO8nR10qNEvUR0F6x2EReF9vi0tXmPFp&s=10" group-title="News", Somoy TV
-https://utube.buddyxiptv.com/@somoynews360.m3u8
-#EXTINF:-1 tvg-logo="https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/logo.png" group-title="Movies", & PICTURE 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm2sobxAKM6qTgzMz7KVGfkdGJQCk8WLGP4w&usqp=CAU" group-title="Movies", & PICTURE 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd0sgacqfcq_o7Rh3pdxxzCCEiw91C6ZCPFiDEP2W3-dLvKrSgXoBRXN2Y&s=10" group-title="Movies", ZEE BANGLA CINEMA 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logo/star1.png" group-title="Sports", STAR 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFNu0AL74_8oofsNGQqs6UKIpI_Dnx2trAfA&usqp=CAU" group-title="Sports", STAR 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-#EXTINF:-1 tvg-logo="https://example.com/logo/abudhabi1.png" group-title="Sports", ABU DHABI SPORTS 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVWrkMRY1M7UBUjNQU8wu4jPZ60iVZYiFveQ&usqp=CAU" group-title="Sports", ABU DHABI SPORTS 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logo/rtvmusic.png" group-title="Music", R TV MuSIC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6rImdFRtlPF-DZp-ZOtVbuJM3s-ASFt1b9edyxpIgTTDM89mWddjzTJle&s=10" group-title="Music", R TV MuSIC
 https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logo/rplus.png" group-title="News", R PLUS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFnXVPA-VgRksOJeXWchq2hID9yLFCLFdxlw&usqp=CAU" group-title="News", R PLUS
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logo/onkartv.png" group-title="Religious", ONKAR BANGLA 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToum2GNugYQkCnt1JjrHORzrpt1ODX9Ir3YJ12UXt0M3WIi9vLjSZkKT2l&s=10" group-title="Religious", ONKAR BANGLA 
 https://ythls.armelin.one/channel/UCEehFQbkw72mMNSqH-7YJ_w.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logo/kolkatatv.png" group-title="News", KOLKATA TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ZIcQZJsxykDxq660jvKNkeFjXlP-LkyFAjcsP_cYyIsm8pWpAjqSLChu&s=10" group-title="News", KOLKATA TV
 https://ythls.armelin.one/channel/UCNvCQpcafnbW4KQ8X7oQ9kg.m3u8
-#EXTINF:-1 tvg-logo="https://example.com/logo/highnews.png" group-title="News", HIGH NEWS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLcRBkkj4gxo7O7Scw3PTtT8MW0zs3v2j7l6U2RBrxcgXp10qSIb9N0ck&s=10" group-title="News", HIGH NEWS
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
