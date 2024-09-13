@@ -65,7 +65,7 @@ http://109.233.89.166/Eurosport_1_HD/mono.m3u8
 http://109.233.89.166/Eurosport_2_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.grandstand.com/wp-content/uploads/logo-23.png" group-title="Sports", Grandstand
 http://145.239.5.177:8080/567/index.m3u8
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.D_k2Vl7mzEYsij3arXInawAAAA?w=200&h=200&rs=1&pid=ImgDetMain" group-title="Sports", T-Sports Others
+#EXTINF:-1 tvg-logo="https://www.especialistasdeldeporte.com/wp-content/uploads/elementor/thumbs/AMAZON-1000-750-pzu6q3wosy8wdzdzw4jjfnkuwd0tf3xzhs4xfz0b4c.jpeg" group-title="Sports", T-Sports Others
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.amazonsports.com/wp-content/uploads/2019/10/Amazon-Sports-Logo.png" group-title="Sports", Amazon-Sports
 http://145.239.5.177:8080/518/index.m3u8
