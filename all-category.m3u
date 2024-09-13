@@ -13,7 +13,7 @@ https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKpp91zfTj9iHqZjc51K9xStUehDh_UC3FP8wLUHSSqJUdbQLfO8Qc9Q&s=10" group-title="News", ATN News
 https://utube.buddyxiptv.com/@atnnewsltd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3dOWDR6-EhmPjh6-B5cANmPB2MeQ1l37Z-eKiNaDxDU85REDetvThcsHz&s=10" group-title="News", BTV
-https://utube.buddyxiptv.com/@BangladeshTelevision-BTV.m3u8
+http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.bvnews24.com/media/common/logo-fb-new.png" group-title="News", BanglaVision
 https://utube.buddyxiptv.com/@banglavisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu5esWQJMeidST4hBxJU38A0ypGGvGeMsMcbxB_c-Xl2LHYF-vv42wqybO&s=10" group-title="News", DBC
