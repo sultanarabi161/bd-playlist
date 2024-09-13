@@ -7,9 +7,9 @@ https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XT6bqeyaDbp7ZU4CUCeJQmDnvO8nR10qNEvUR0F6x2EReF9vi0tXmPFp&s=10" group-title="News", Somoy TV
 https://utube.buddyxiptv.com/@somoynews360.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwiWwMF7vz1WjLFI5XDpn1gPsL8F_jekTnZxTTXNTAIBMb34zne0gpmfZa&s=10" group-title="News", Ekattor TV
-https://utube.buddyxiptv.com/@EkattorTelevision.m3u8
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EnxMKoBQvWpoqa6WchdaWz1ROQNzXjVbi_g_BFXEQPwf7PCc55WzbJY&s=10" group-title="News", Independent TV
-https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKpp91zfTj9iHqZjc51K9xStUehDh_UC3FP8wLUHSSqJUdbQLfO8Qc9Q&s=10" group-title="News", ATN News
 https://utube.buddyxiptv.com/@atnnewsltd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3dOWDR6-EhmPjh6-B5cANmPB2MeQ1l37Z-eKiNaDxDU85REDetvThcsHz&s=10" group-title="News", BTV
@@ -27,11 +27,11 @@ https://utube.buddyxiptv.com/@deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://bdcast.ams3.cdn.digitaloceanspaces.com/img/logos/banglatv.jpg" group-title="News", Bangla TV
 https://utube.buddyxiptv.com/@banglatvbd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGe167yjB977DD6YjmDqVt9QOb2ZPqkCusAPqLvKqvv14eu3KzPExkLYEg&s=10" group-title="News", Bangla Jago
-https://utube.buddyxiptv.com/@banglajagotv.m3u8
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.o5v3LkzEwpINwvh5iSvtlgAAAA?rs=1&pid=ImgDetMain" group-title="News", Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/51/eb/48/51eb480e58cb0e4290e568d902c662a9.jpg" group-title="News", Desh TV
-https://utube.buddyxiptv.com/@deshtv.m3u8
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iventurebd.com/wp-content/uploads/2023/07/Channel-i-150x150.jpg" group-title="News", Channel i TV
 https://utube.buddyxiptv.com/@channelinews.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.5bebf5858954f8defc62d7cc51468e75?rik=o6F5Kiufp8cOrA&riu=http%3a%2f%2fwww.bdquery.com%2flogo%2f2720.jpg&ehk=oGxT7ElJ0WpQXPpbIbkLt%2byZcAUS5%2fnSAz%2fjXw99Jfg%3d&risl=&pid=ImgRaw&r=0" group-title="News", R TV
@@ -152,13 +152,11 @@ https://raw.githubusercontent.com/functionerror/channels/main/information/HGTV.m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_tWS4SCGY_jsblYPCJbslT2lCKLJLkPZd9XAcwV8o_y7dI63AjlS3YLR&s=10" group-title="Other", Investigation Discovery
 https://raw.githubusercontent.com/functionerror/channels/main/information/Investigation_Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDPjpFoSc7u5GBmaYQoxWf16pG-vtSQc1zQ&usqp=CAU" group-title="Other", Discovery Channels
-https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Channel.m3u8
-
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10" group-title="News", Jamuna TV
 https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XT6bqeyaDbp7ZU4CUCeJQmDnvO8nR10qNEvUR0F6x2EReF9vi0tXmPFp&s=10" group-title="News", Somoy TV
 https://utube.buddyxiptv.com/@somoynews360.m3u8
-
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.a4IGs2n4H3QZdg2MonNYQwHaHa?rs=1&pid=ImgDetMain" group-title="General", SHUBH TV
 https://raw.githubusercontent.com/msujoy1495/Live-TV/main/OrangeTV.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.a40e7313831f1947ff1e851b54841439?rik=saCqS8XqN4gjzg&pid=ImgRaw&r=0" group-title="Sports", STAR SPORTS 1
