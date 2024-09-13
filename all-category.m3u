@@ -61,7 +61,7 @@ https://humsab.xyz/S_Ten5/index.m3u8
 http://example.com/sports-channel1.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.GH_4N4cvFC-NKzzzQQgFhQHaHa?w=500&h=500&rs=1&pid=ImgDetMain" group-title="Sports", Euro Sports 1
 http://109.233.89.166/Eurosport_1_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq3Cm2H8g8v9OdF6PZTHQaE7DJw1fSQee2Wb1U1uOQzTXqg4FSx4D97H3L&s=10" group-title="Sports", Euro Sports 2
+#EXTINF:-1 tvg-logo="https://www.tvpertutti.it/IMG/rubon36.jpg" group-title="Sports", Euro Sports 2
 http://109.233.89.166/Eurosport_2_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.grandstand.com/wp-content/uploads/logo-23.png" group-title="Sports", Grandstand
 http://145.239.5.177:8080/567/index.m3u8
