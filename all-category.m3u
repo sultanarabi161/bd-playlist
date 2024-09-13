@@ -63,11 +63,11 @@ http://example.com/sports-channel1.m3u8
 http://109.233.89.166/Eurosport_1_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvpertutti.it/IMG/rubon36.jpg" group-title="Sports", Euro Sports 2
 http://109.233.89.166/Eurosport_2_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.grandstand.com/wp-content/uploads/logo-23.png" group-title="Sports", Grandstand
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-grandstand-za.png" group-title="Sports", Grandstand
 http://145.239.5.177:8080/567/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.especialistasdeldeporte.com/wp-content/uploads/elementor/thumbs/AMAZON-1000-750-pzu6q3wosy8wdzdzw4jjfnkuwd0tf3xzhs4xfz0b4c.jpeg" group-title="Sports", T-Sports Others
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.0ff1de6d5b33dc01ad7b637b8fe3f3b4?rik=kauSTrLK3aNOEQ&riu=http%3a%2f%2fwww.cnemabynt.com%2fuploads%2fdigitaltvs%2fTsport.jpeg&ehk=U%2b3kZw%2bdu5HMYoZWKGWdzogt9vC8BBlrJW9oAgpfkzk%3d&risl=&pid=ImgRaw&r=0" group-title="Sports", T-Sports Others
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.amazonsports.com/wp-content/uploads/2019/10/Amazon-Sports-Logo.png" group-title="Sports", Amazon-Sports
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzXJSCGYZN_CHjPWAmz2m2ijtNO8P20jX_bmQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Sports", Amazon-Sports
 http://145.239.5.177:8080/518/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1824436409681252352/pu/img/TORp4XOLpBfaBnM4.jpg" group-title="Sports", ESPN Live
 http://144.178.85.10:8080/ESPN1/index.m3u8
