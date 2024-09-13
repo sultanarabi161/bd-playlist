@@ -154,9 +154,6 @@ https://raw.githubusercontent.com/functionerror/channels/main/information/Invest
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDPjpFoSc7u5GBmaYQoxWf16pG-vtSQc1zQ&usqp=CAU" group-title="Other", Discovery Channels
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10" group-title="News", Jamuna TV
-https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XT6bqeyaDbp7ZU4CUCeJQmDnvO8nR10qNEvUR0F6x2EReF9vi0tXmPFp&s=10" group-title="News", Somoy TV
-https://utube.buddyxiptv.com/@somoynews360.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.a4IGs2n4H3QZdg2MonNYQwHaHa?rs=1&pid=ImgDetMain" group-title="General", SHUBH TV
 https://raw.githubusercontent.com/msujoy1495/Live-TV/main/OrangeTV.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.a40e7313831f1947ff1e851b54841439?rik=saCqS8XqN4gjzg&pid=ImgRaw&r=0" group-title="Sports", STAR SPORTS 1
