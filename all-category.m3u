@@ -19,13 +19,13 @@ https://utube.buddyxiptv.com/@banglavisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu5esWQJMeidST4hBxJU38A0ypGGvGeMsMcbxB_c-Xl2LHYF-vv42wqybO&s=10" group-title="News", DBC
 https://utube.buddyxiptv.com/@dbcnewstv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_WLUYEDdW0U3CnpT0mUpYLVfgq7B1DBCK3He1fswY0WfofO0oZwQA5cs&s=10" group-title="News", Al Jazeera English
-https://utube.buddyxiptv.com/@aljazeeraenglish.m3u8
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuGK59BsAzg0HkKoWYLXQWbkzpazIgvThiaVx9XE9zCuZKYQCEIyl4zz_d&s=10" group-title="News", Asian TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVjtzEDUULzKQyQVB9qV8H4vLFyP_hyQhvig&usqp=CAU" group-title="News", Deepto TV
-https://utube.buddyxiptv.com/@deeptotv.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://bdcast.ams3.cdn.digitaloceanspaces.com/img/logos/banglatv.jpg" group-title="News", Bangla TV
-https://utube.buddyxiptv.com/@banglatvbd.m3u8
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGe167yjB977DD6YjmDqVt9QOb2ZPqkCusAPqLvKqvv14eu3KzPExkLYEg&s=10" group-title="News", Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.o5v3LkzEwpINwvh5iSvtlgAAAA?rs=1&pid=ImgDetMain" group-title="News", Ekushey TV
