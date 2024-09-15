@@ -50,7 +50,7 @@ https://utube.buddyxiptv.com/@ekhontv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyO_JpA0W3JdrawWdECMt2ogOselxhl_NlR49TayeT3kZrSs5g9u18AWlM&s=10" group-title="Sports", Sony Sports
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.D_k2Vl7mzEYsij3arXInawAAAA?w=200&h=200&rs=1&pid=ImgDetMain" group-title="Sports", T-Sports
-http://example.com/sports-channel1.m3u8
+https://hotflix-bd.online/GTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Sports", beIN Sports 1
 http://176.9.60.218:8080/BE1HDHEVC/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/600x600.webp?type=color_onBlack" group-title="Sports", beIN Sports Xtra
