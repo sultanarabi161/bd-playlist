@@ -2,15 +2,10 @@
 
 ### News Channels
 
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EnxMKoBQvWpoqa6WchdaWz1ROQNzXjVbi_g_BFXEQPwf7PCc55WzbJY&s=10" group-title="News", Independent TV
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3dOWDR6-EhmPjh6-B5cANmPB2MeQ1l37Z-eKiNaDxDU85REDetvThcsHz&s=10" group-title="News", BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_WLUYEDdW0U3CnpT0mUpYLVfgq7B1DBCK3He1fswY0WfofO0oZwQA5cs&s=10" group-title="News", Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuGK59BsAzg0HkKoWYLXQWbkzpazIgvThiaVx9XE9zCuZKYQCEIyl4zz_d&s=10" group-title="News", Asian TV
@@ -26,7 +21,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/51/eb/48/51eb480e58cb0e4290e568d902c662a9.jpg" group-title="News", Desh TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#
+
 
 ### Sports Channels
 
@@ -34,13 +29,6 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/600x600.webp?type=color_onBlack" group-title="Sports", beIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKu4LSeab0x8VdakYbELT0FqJbjHZBqEVL_w&usqp=CAU" group-title="Sports", Sports Star 1
 https://hotflix-bd.online/Star-Sports-1/video.m3u8?token=3b1e5cfa094fa77ff836f776bde43d53e0f21498-75e141b96b9ff0e46130946949623aa7-1723744015-1723733215&remote=103.115.243.140
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.D_k2Vl7mzEYsij3arXInawAAAA?w=200&h=200&rs=1&pid=ImgDetMain" group-title="Sports", T-Sports
@@ -49,25 +37,20 @@ https://hotflix-bd.online/GTV/index.m3u8
 http://176.9.60.218:8080/BE1HDHEVC/index.m3u8
 
 
-
 ### Kids Channels
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQySsUe6YVUstmCI7sEmf1VGCO59yn72GSUlXGwrIJu6_991hFBQaET_Cxb&s=10" group-title="Kids", Pogo TV
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmqGu_5F8YGTCRqZdAc-CJ6wRLIsyr0ciAzA&usqp=CAU" group-title="Kids", Discovery Kids
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd4_8A9l3MeBiB3HdFI7AADY7QORxEz7OeMw&usqp=CAU" group-title="Kids", CN (Cartoon Network)
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 
-### Movies Channels
 
+### Movies Channels
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3dOWDR6-EhmPjh6-B5cANmPB2MeQ1l37Z-eKiNaDxDU85REDetvThcsHz&s=10" group-title="Movies", Sony HD
 http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
-
-
 
 
 ### Islamic Channels
@@ -97,7 +80,6 @@ https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 https://raw.githubusercontent.com/bruce78900/sstv/main/Animal_Planet.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZZQvwqS1XoGHPIRLKydTrC0lG6H2nX47lUwtwnQX7F4B4WYk2YLKL5OL&s=10" group-title="Other", DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfQsicS4HOvfxpn-iAMJNoDR_0Md48R-tJhYefvJjPcCyoBsRx7Swt2-o&s=10" group-title="Other", DMAX
 https://raw.githubusercontent.com/functionerror/channels/main/information/DMAX.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy_AMqR4xkCe6AxrRVfb2K38qiMcoRh7FUVEByNfE-e44Tf3-5H7NVieXj&s=10" group-title="Other", Discovery Science
@@ -108,7 +90,6 @@ https://raw.githubusercontent.com/functionerror/channels/main/information/Discov
 https://raw.githubusercontent.com/functionerror/channels/main/information/Food%20Network.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnOgWYVNfZVEtgb04dpD9dA1Bi7M0m6wsXg&usqp=CAU" group-title="Other", HGTV
 https://raw.githubusercontent.com/functionerror/channels/main/information/HGTV.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDPjpFoSc7u5GBmaYQoxWf16pG-vtSQc1zQ&usqp=CAU" group-title="Other", Discovery Channels
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10" group-title="News", Jamuna TV
@@ -152,7 +133,6 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc_NBTv-HZeASFNrJyegml_rPspYy4SpTg1PWO2E6gq9pBp1xs4YsgNg8&s=10" group-title="Movies", MOVIE BANGLA 
 http://alvetv.com/mbtv/8080/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm2sobxAKM6qTgzMz7KVGfkdGJQCk8WLGP4w&usqp=CAU" group-title="Movies", & PICTURE 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd0sgacqfcq_o7Rh3pdxxzCCEiw91C6ZCPFiDEP2W3-dLvKrSgXoBRXN2Y&s=10" group-title="Movies", ZEE BANGLA CINEMA 
@@ -165,7 +145,6 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/in
 https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFnXVPA-VgRksOJeXWchq2hID9yLFCLFdxlw&usqp=CAU" group-title="News", R PLUS
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLcRBkkj4gxo7O7Scw3PTtT8MW0zs3v2j7l6U2RBrxcgXp10qSIb9N0ck&s=10" group-title="News", HIGH NEWS
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
@@ -320,218 +299,3 @@ http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
 http://109.233.89.166/Disney_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Ary_Channel_logo.png/220px-Disney_Channel_logo.png" group-title="Ent", Ary Channel
 http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://example.com/logo1.png" group-title="IND-Bangla", Zee Bangla HD
-http://opplex.tv:8080/Saifullah222/Saifullah222/245893
-
-#EXTINF:-1 tvg-logo="https://example.com/logo2.png" group-title="BD-loc", Colors Bangla
-http://opplex.tv:8080/Saifullah222/Saifullah222/245895
-
-#EXTINF:-1 tvg-logo="https://example.com/logo3.png" group-title="IND-Bangla", Zee Bangla Cinema
-http://opplex.tv:8080/Saifullah222/Saifullah222/245897
-
-#EXTINF:-1 tvg-logo="https://example.com/logo4.png" group-title="IND-Bangla", Star Jalsa HD
-http://opplex.tv:8080/Saifullah222/Saifullah222/245898
-
-#EXTINF:-1 tvg-logo="https://example.com/logo5.png" group-title="IND-Bangla", Jalsa Movies HD
-http://opplex.tv:8080/Saifullah222/Saifullah222/245900
-
-#EXTINF:-1 tvg-logo="https://example.com/logo6.png" group-title="BD-loc", Gazi TV
-http://opplex.tv:8080/Saifullah222/Saifullah222/245901
-
-#EXTINF:-1 tvg-logo="https://example.com/logo7.png" group-title="BD-loc", Channel 9
-http://opplex.tv:8080/Saifullah222/Saifullah222/245902
-
-#EXTINF:-1 tvg-logo="https://example.com/logo8.png" group-title="BD-loc", NEWS 24
-http://opplex.tv:8080/Saifullah222/Saifullah222/245903
-
-#EXTINF:-1 tvg-logo="https://example.com/logo9.png" group-title="BD-loc", Masranga HD
-http://opplex.tv:8080/Saifullah222/Saifullah222/245904
-
-#EXTINF:-1 tvg-logo="https://example.com/logo10.png" group-title="BD-LOC", ATN News
-http://opplex.tv:8080/Saifullah222/Saifullah222/245905
-
-#EXTINF:-1 tvg-logo="https://example.com/logo11.png" group-title="IND-Bangla", SUN Bangla
-http://opplex.tv:8080/Saifullah222/Saifullah222/245906
-
-#EXTINF:-1 tvg-logo="https://example.com/logo12.png" group-title="BD-LOC", 71banglatv
-http://opplex.tv:8080/Saifullah222/Saifullah222/245907
-
-#EXTINF:-1 tvg-logo="https://example.com/logo13.png" group-title="BD-LOC", Asian tv
-http://opplex.tv:8080/Saifullah222/Saifullah222/245908
-
-#EXTINF:-1 tvg-logo="https://example.com/logo14.png" group-title="BD-LOC", ATN Bangla
-http://opplex.tv:8080/Saifullah222/Saifullah222/245909
-
-#EXTINF:-1 tvg-logo="https://example.com/logo15.png" group-title="BD-LOC", Bangla Tv
-http://opplex.tv:8080/Saifullah222/Saifullah222/245910
-
-#EXTINF:-1 tvg-logo="https://example.com/logo16.png" group-title="BD-LOC", RTV
-http://opplex.tv:8080/Saifullah222/Saifullah222/245911
-
-#EXTINF:-1 tvg-logo="https://example.com/logo17.png" group-title="BD-LOC", channel I
-http://opplex.tv:8080/Saifullah222/Saifullah222/245913
-
-#EXTINF:-1 tvg-logo="https://example.com/logo18.png" group-title="BD-LOC", Dbc News
-http://opplex.tv:8080/Saifullah222/Saifullah222/245914
-
-#EXTINF:-1 tvg-logo="https://example.com/logo19.png" group-title="BD", EKATTOR TV HD
-http://opplex.tv:8080/Saifullah222/Saifullah222/245915
-
-#EXTINF:-1 tvg-logo="https://example.com/logo20.png" group-title="BD-LOC", independent
-http://opplex.tv:8080/Saifullah222/Saifullah222/245916
-
-#EXTINF:-1 tvg-logo="https://example.com/logo21.png" group-title="BD-LOC", jamuna tv
-http://opplex.tv:8080/Saifullah222/Saifullah222/245917
-
-#EXTINF:-1 tvg-logo="https://example.com/logo22.png" group-title="BD-LOC", R PLUS
-http://opplex.tv:8080/Saifullah222/Saifullah222/245918
-
-#EXTINF:-1 tvg-logo="https://example.com/logo23.png" group-title="BD-loc", Mohona tv
-http://opplex.tv:8080/Saifullah222/Saifullah222/245920
-
-#EXTINF:-1 tvg-logo="https://example.com/logo24.png" group-title="BD-loc", DHOOM MUSIC
-http://opplex.tv:8080/Saifullah222/Saifullah222/245921
-
-#EXTINF:-1 tvg-logo="https://example.com/logo25.png" group-title="BD-loc", Btv world
-http://opplex.tv:8080/Saifullah222/Saifullah222/245922
-
-#EXTINF:-1 tvg-logo="https://example.com/logo26.png" group-title="BD", BOISHAKHI TV HD
-http://opplex.tv:8080/Saifullah222/Saifullah222/245923
-
-#EXTINF:-1 tvg-logo="https://example.com/logo27.png" group-title="BD-loc", ntv
-http://opplex.tv:8080/Saifullah222/Saifullah222/245924
-
-#EXTINF:-1 tvg-logo="https://example.com/logo28.png" group-title="BD-loc", SOMOY tv NEWS
-http://opplex.tv:8080/Saifullah222/Saifullah222/245925
-
-#EXTINF:-1 tvg-logo="https://example.com/logo29.png" group-title="BD-loc", Deepto tv
-http://opplex.tv:8080/Saifullah222/Saifullah222/245927
-
-#EXTINF:-1 tvg-logo="https://example.com/logo30.png" group-title="BD-loc", Aakaash
-http://opplex.tv:8080/Saifullah222/Saifullah222/245928
-
-#EXTINF:-1 tvg-logo="https://example.com/logo31.png" group-title="BD", Ananda TV
-http://opplex.tv:8080/Saifullah222/Saifullah222/245929
-
-#EXTINF:-1 tvg-logo="https://example.com/logo32.png" group-title="BD-loc", BTV-
-http://opplex.tv:8080/Saifullah222/Saifullah222/245930
-
-#EXTINF:-1 tvg-logo="https://example.com/logo33.png" group-title="BD-loc", Ruposhi Bangla
-http://opplex.tv:8080/Saifullah222/Saifullah222/245932
-
-#EXTINF:-1 tvg-logo="https://example.com/logo34.png" group-title="BD-loc", sangeet bangla
-http://opplex.tv:8080/Saifullah222/Saifullah222/245933
-
-#EXTINF:-1 tvg-logo="https://example.com/logo35.png" group-title="BD", GaanbAngla Tv
-http://opplex.tv:8080/Saifullah222/Saifullah222/245935
-
-#EXTINF:-1 tvg-logo="https://example.com/logo36.png" group-title="bd-loc", Ekushey TV
-http://opplex.tv:8080/Saifullah222/Saifullah222/245937
-
-#EXTINF:-1 tvg-logo="https://example.com/logo37.png" group-title="bd-loc", Nagorik tv
-http://opplex.tv:8080/Saifullah222/Saifullah222/245939
-
-#EXTINF:-1 tvg-logo="https://example.com/logo38.png" group-title="bd-loc", SANGSAD BANGLADESH
-http://opplex.tv:8080/Saifullah222/Saifullah222/245940
-
-#EXTINF:-1 tvg-logo="https://example.com/logo39.png" group-title="bd-loc", R PLUS GOLD
-http://opplex.tv:8080/Saifullah222/Saifullah222/245941
-
-#EXTINF:-1 tvg-logo="https://example.com/logo40.png" group-title="BD", NEWS TIME TV
-http://opplex.tv:8080/Saifullah222/Saifullah222/245942
-
-#EXTINF:-1 tvg-logo="https://example.com/logo41.png" group-title="BD", EKHON TV
-http://opplex.tv:8080/Saifullah222/Saifullah222/245943
-
-#EXTINF:-1 tvg-logo="https://example.com/logo42.png" group-title="bd-loc", SA TV
-http://opplex.tv:8080/Saifullah222/Saifullah222/245945
-
-#EXTINF:-1 tvg-logo="https://example.com/logo43.png" group-title="bd-loc", bijoy tv
-http://opplex.tv:8080/Saifullah222/Saifullah222/245946
-
-#EXTINF:-1 tvg-logo="https://example.com/logo44.png" group-title="BD-Loc", channel S BD
-http://opplex.tv:8080/Saifullah222/Saifullah222/245947
-
-#EXTINF:-1 tvg-logo="https://example.com/logo45.png" group-title="BD-Loc", Nexus TV
-http://opplex.tv:8080/Saifullah222/Saifullah222/245949
-
-#EXTINF:-1 tvg-logo="https://example.com/logo46.png" group-title="Bd-loc", Tv9 bangla
-http://opplex.tv:8080/Saifullah222/Saifullah222/245950
-
-#EXTINF:-1 tvg-logo="https://example.com/logo47.png" group-title="BD", MOVIE BANGLA
-http://opplex.tv:8080/Saifullah222/Saifullah222/245951
-
-#EXTINF:-1 tvg-logo="https://example.com/logo48.png" group-title="BD", ENTER 10 BANGLA
-http://opplex.tv:8080/Saifullah222/Saifullah222/245954
-
-#EXTINF:-1 tvg-logo="https://example.com/logo49.png" group-title="BD", DURONTO TV
-http://opplex.tv:8080/Saifullah222/Saifullah222/245955
-
-#EXTINF:-1 tvg-logo="https://example.com/logo50.png" group-title="BD", BANGLA VISION
-http://opplex.tv:8080/Saifullah222/Saifullah222/245957
-
-#EXTINF:-1 tvg-logo="https://example.com/logo51.png" group-title="SONY", SONY YAY!
-http://opplex.tv:8080/Saifullah222/Saifullah222/245959
-
-#EXTINF:-1 tvg-logo="https://example.com/logo52.png" group-title="BD", NRB TV HD
-http://opplex.tv:8080/Saifullah222/Saifullah222/245962
-
-#EXTINF:-1 tvg-logo="https://example.com/logo53.png" group-title="BD", MY TV
-http://opplex.tv:8080/Saifullah222/Saifullah222/245964
-
-#EXTINF:-1 tvg-logo="https://example.com/logo54.png" group-title="BD", ATN MUSIC
-http://opplex.tv:8080/Saifullah222/Saifullah222/245965
-
-#EXTINF:-1 tvg-logo="https://example.com/logo55.png" group-title="BD", DISCOVERY BANGLA
-http://opplex.tv:8080/Saifullah222/Saifullah222/245966
-
-#EXTINF:-1 tvg-logo="https://example.com/logo56.png" group-title="NAT GEO", NAT GEO BANGLA
-http://opplex.tv:8080/Saifullah222/Saifullah222/245967
-
-#EXTINF:-1 tvg-logo="https://example.com/logo57.png" group-title="BD", TRAVELXP BANGLA
-http://opplex.tv:8080/Saifullah222/Saifullah222/245968
-
-#EXTINF:-1 tvg-logo="https://example.com/logo58.png" group-title="BD", CHANNEL 24
-http://opplex.tv:8080/Saifullah222/Saifullah222/245969
-
-#EXTINF:-1 tvg-logo="https://example.com/logo59.png" group-title="BD", Madhagaja (2021)
-http://opplex.tv:8080/movie/Saifullah222/Saifullah222/245970.mkv
-
-#EXTINF:-1 tvg-logo="https://example.com/logo60.png" group-title="BD", Same Girl (2022)
-http://opplex.tv:8080/movie/Saifullah222/Saifullah222/245971.mkv
-
-#EXTINF:-1 tvg-logo="https://example.com/logo61.png" group-title="BD", Water Monster (2019)
-http://opplex.tv:8080/movie/Saifullah222/Saifullah222/245981.mkv
-
-#EXTINF:-1 tvg-logo="https://example.com/logo62.png" group-title="BD", Erida (2021)
-http://opplex.tv:8080/movie/Saifullah222/Saifullah222/245982.mkv
-
-#EXTINF:-1 tvg-logo="https://example.com/logo63.png" group-title="BD", Babbar (2022)
-http://opplex.tv:8080/movie/Saifullah222/Saifullah222/245983.mkv
-
-#EXTINF:-1 tvg-logo="https://example.com/logo64.png" group-title="BD", SONY AATH
-http://opplex.tv:8080/Saifullah222/Saifullah222/245989
-
-#EXTINF:-1 tvg-logo="https://example.com/logo65.png" group-title="BTV", BTV CTG
-http://opplex.tv:8080/Saifullah222/Saifullah222/245990
-
-#EXTINF:-1 tvg-logo="https://example.com/logo66.png" group-title="News", ABP ANANDA
-http://opplex.tv:8080/Saifullah222/Saifullah222/245991
-
-#EXTINF:-1 tvg-logo="https://example.com/logo67.png" group-title="News", NEWS 18 BANGLA
-http://opplex.tv:8080/Saifullah222/Saifullah222/245992
-
-#EXTINF:-1 tvg-logo="https://example.com/logo68.png" group-title="BD", JONMO BHUMI TV
-http://opplex.tv:8080/Saifullah222/Saifullah222/246001
-
-#EXTINF:-1 tvg-logo="https://example.com/logo69.png" group-title="BD", BANGLA 21 TV
-http://opplex.tv:8080/Saifullah222/Saifullah222/246003
-
-#EXTINF:-1 tvg-logo="https://example.com/logo70.png" group-title="BD", AMAR BANGLA
-http://opplex.tv:8080/Saifullah222/Saifullah222/246007
-
-#EXTINF:-1 tvg-logo="https://example.com/logo71.png" group-title="BD-UK", ATN BANGLA
-http://opplex.tv:8080/Saifullah222/Saifullah222/246010
-
