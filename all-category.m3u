@@ -361,3 +361,5 @@ http://109.233.89.166/Eurosport_2_HD/mono.m3u8
 http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Disney_Channel_logo.png/220px-Disney_Channel_logo.png" group-title="Kids", Disney Channel
 http://109.233.89.166/Disney_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Ary_Channel_logo.png/220px-Disney_Channel_logo.png" group-title="Ent", Ary Channel
+http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
