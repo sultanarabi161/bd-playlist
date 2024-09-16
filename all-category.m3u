@@ -26,8 +26,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/51/eb/48/51eb480e58cb0e4290e568d902c662a9.jpg" group-title="News", Desh TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Xece0gzkw9PaXsmJLUJcewHaHa?rs=1&pid=ImgDetMain" group-title="News", Ekhon TV
-https://utube.buddyxiptv.com/@ekhontv.m3u8
+#
 
 ### Sports Channels
 
@@ -132,7 +131,8 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2lReZdl9fmm9CSOqKwuKNoAxQv5VHQAWgBj8u3eVCO5dRtCu-Xtn98Y&s=10" group-title="Music", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Entertainment", ENTER 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Entertainment", ENTER
+10
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqP88B1WdwSUea521hUHm80BqYXyA_IHNv_jYTSbBYuiDxi2Wf2dhrZM&s=10" group-title="Entertainment", ZEE BANGLA HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
@@ -165,10 +165,7 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/in
 https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFnXVPA-VgRksOJeXWchq2hID9yLFCLFdxlw&usqp=CAU" group-title="News", R PLUS
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToum2GNugYQkCnt1JjrHORzrpt1ODX9Ir3YJ12UXt0M3WIi9vLjSZkKT2l&s=10" group-title="Religious", ONKAR BANGLA 
-https://ythls.armelin.one/channel/UCEehFQbkw72mMNSqH-7YJ_w.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ZIcQZJsxykDxq660jvKNkeFjXlP-LkyFAjcsP_cYyIsm8pWpAjqSLChu&s=10" group-title="News", KOLKATA TV
-https://ythls.armelin.one/channel/UCNvCQpcafnbW4KQ8X7oQ9kg.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLcRBkkj4gxo7O7Scw3PTtT8MW0zs3v2j7l6U2RBrxcgXp10qSIb9N0ck&s=10" group-title="News", HIGH NEWS
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
