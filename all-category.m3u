@@ -30,8 +30,10 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyO_JpA0W3JdrawWdECMt2ogOselxhl_NlR49TayeT3kZrSs5g9u18AWlM&s=10" group-title="Sports", Sony Sports
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/600x600.webp?type=color_onBlack" group-title="Sports", beIN Sports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1o6jhEZipAAFHjzoj0mq4uWNkTCXAwyH6A&usqp=CAU" group-title="Sports", beIN Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6x1vSF23ZHIVG8pUjBD6S11f7sSUXUzaOq7LiGtfP2zuLdPvBCt92nbE&s=10" group-title="Sports", beIN Sports 2
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKu4LSeab0x8VdakYbELT0FqJbjHZBqEVL_w&usqp=CAU" group-title="Sports", Sports Star 1
 https://hotflix-bd.online/Star-Sports-1/video.m3u8?token=3b1e5cfa094fa77ff836f776bde43d53e0f21498-75e141b96b9ff0e46130946949623aa7-1723744015-1723733215&remote=103.115.243.140
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.D_k2Vl7mzEYsij3arXInawAAAA?w=200&h=200&rs=1&pid=ImgDetMain" group-title="Sports", T-Sports
